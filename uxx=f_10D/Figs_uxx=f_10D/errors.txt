@@ -1,0 +1,3 @@
+Relative L2 error u: 3.162137e-02
+Relative L2 error RHS_H: 1.518851e-01
+Relative L2 error RHS_L: 3.330478e-02
