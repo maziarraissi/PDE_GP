@@ -4,7 +4,7 @@ This work leverages recent advances in probabilistic machine learning to discove
 
 * * * * *
 
-For more information please refer to [paper1](http://www.sciencedirect.com/science/article/pii/S0021999117305582) and [paper2](http://www.sciencedirect.com/science/article/pii/S0021999117300761). The codes for these two papers are publicly available on [GitHub](https://github.com/maziarraissi/ODE_GP).
+For more information please refer to [paper 1](http://www.sciencedirect.com/science/article/pii/S0021999117305582) and [paper 2](http://www.sciencedirect.com/science/article/pii/S0021999117300761). The codes for these two papers are publicly available on [GitHub](https://github.com/maziarraissi/ODE_GP).
 
 * * * * *
 ## Citation
