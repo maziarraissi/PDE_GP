@@ -3,6 +3,10 @@
 This work leverages recent advances in probabilistic machine learning to discover governing equations expressed by parametric linear operators. Such equations involve, but are not limited to, ordinary and partial differential, integro-differential, and fractional order operators. Here, Gaussian process priors are modified according to the particular form of such operators and are employed to infer parameters of the linear equations from scarce and possibly noisy observations. Such observations may come from experiments or “black-box” computer simulations, as demonstrated in several synthetic examples and a realistic application in functional genomics.
 
 * * * * *
+
+For more information please refer to [paper1](http://www.sciencedirect.com/science/article/pii/S0021999117305582) and [paper2](http://www.sciencedirect.com/science/article/pii/S0021999117300761). The codes for these two papers are publicly available on [GitHub](https://github.com/maziarraissi/ODE_GP).
+
+* * * * *
 ## Citation
 
 	@article{RAISSI2017683,
